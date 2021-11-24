@@ -1,0 +1,2 @@
+rootProject.name = "time-and-date-picker"
+include ':app'
