@@ -8,7 +8,11 @@ The time-and-date-picker app contains two input fields. One of them opens a **Ti
 Clicking the Button shows a **Toast** message with the selected time and date. The application serves as an example of these features.
 
 ## Features
-The setting of this program is a reminder app. The user can select a time and date via the two picker. A Toast message shows those values by setting the reminder.
+The setting of this program is a reminder app. The user can select a time and date via the two picker. A Toast message shows those values by setting the reminder. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
+![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
